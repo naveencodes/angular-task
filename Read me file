@@ -1,0 +1,9 @@
+Read me file 
+
+index file specify the html file and app.js is js file 
+needs to be run with internet as cdn doesnt support without internet 
+Important 
+
+1. please check as the data from DynamicFormController is moved to DynamicFormController1 after form submittion 
+2. which can be seen in console ( message) ;
+
